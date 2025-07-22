@@ -15,14 +15,6 @@ I'm a passionate data scientist and backend developer with experience building s
 
 ---
 
-### 🚀 Projects & Interests
-
-- **Agri-Gov Connect**: Connecting farmers and governments with real-time data, advisory, and subsidies tracking.
-- **NER for Wolof**: Building tools to recognize named entities in underrepresented African languages.
-- **Domestic Violence Detection**: ML models to flag and analyze social media content for early intervention.
-
----
-
 ### 🧰 Tech Stack
 <!-- 
 ```yaml
@@ -54,5 +46,14 @@ AI/ML: scikit-learn, TensorFlow, pandas, NLTK, CrewAI
 
 ---
 [![](https://visitcount.itsvg.in/api?id=almamync&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+---
+
+### 🚀 Projects & Interests
+
+- **Agri-Gov Connect**: Connecting farmers and governments with real-time data, advisory, and subsidies tracking.
+- **NER for Wolof**: Building tools to recognize named entities in underrepresented African languages.
+- **Domestic Violence Detection**: ML models to flag and analyze social media content for early intervention.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
